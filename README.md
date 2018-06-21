@@ -6,9 +6,7 @@ Fork of https://github.com/getlantern/http-proxy tweaked to run on 9front.
 
 `go get bitbucket.org/henesy/http-proxy`
 
-`cd $GOPATH/src/bitbucket.org/henesy/http-proxy`
-
-`go build`
+`go install bitbucket.org/henesy/http-proxy/http-proxy` 
 
 # Running
 
